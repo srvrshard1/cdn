@@ -1,1 +1,6 @@
-[["keyyffddsf", "valuesesfd"]]
+{
+"commitFile":"./pushData.json",
+"commitMsg":"myCommit",
+"commitTag":"20240201",
+"commitData":{"key":"value"}
+}
