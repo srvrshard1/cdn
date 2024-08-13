@@ -2,5 +2,6 @@
 "commitFile":"./pushData.json",
 "commitMsg":"myCommit",
 "commitTag":"20240201",
+"commitApp":"App_Portfolio",
 "commitData":{"key":"value"}
 }
