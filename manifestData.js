@@ -1,4 +1,4 @@
-const manifest = {
+const manifestData = {
   commitFile: "./manifestData.js",
     commitMsg: "myCommitMsg",
     commitTag: "20240208",
@@ -7,4 +7,4 @@ const manifest = {
       "dataKeyBin": "dataValueBin",
     },
 }
-module.exports = manifest;
+module.exports = manifestData;
