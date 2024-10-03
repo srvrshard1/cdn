@@ -1,9 +1,9 @@
 const manifestData = {
   commitFile: "./manifestData.js",
-    commitMsg: "myCommitMsg",
-    commitTag: "202402896",
-    commitApp: "App_Portfolio",
+    commitMsg: "myCommitMsg2",
+    commitTag: "20241802",
+    commitApp: "App_App",
     commitData: {
-      "dataKeyBin": "dataValueBin",
+      "dataKeyBin2": "dataValueBin2",
     }
 };
